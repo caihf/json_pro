@@ -1,0 +1,10 @@
+{
+	"name" : "xiaoming",
+	"age" : 15,
+	"partner":
+	{
+		"partner_name" : "xiaoli",
+		"partner_age" : 13
+	},
+	"achievement" : ["Jame", "Lucy", "Lily", "Jack"]
+}
