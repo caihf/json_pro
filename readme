@@ -1,0 +1,1 @@
+compiler like: g++ test.cpp -o test -ljsoncpp
