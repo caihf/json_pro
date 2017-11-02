@@ -1,0 +1,49 @@
+{
+
+	"student_info" : 
+
+	[
+
+		[
+
+			{
+				"ID" : 100,
+				"Name" : "LiMing",
+				"Major" : "CS"
+			},
+			{
+				"ID" : 101,
+				"Name" : "HanMeiMei",
+				"Major" : "CS"
+			}
+
+		],
+
+		[
+
+			{
+				"ID" : 102,
+				"Name" : "xiaowang",
+				"Major" : "Chinese"
+			},
+			{
+				"ID" : 103,
+				"Name" : "xiaoQing",
+				"Major" : "Chinese"
+			}
+
+		],
+
+		[
+
+			{
+				"ID" : 104,
+				"Name" : "Jame",
+				"Major" : "English"
+			}
+
+		]
+
+	]
+
+}
